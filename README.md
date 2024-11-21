@@ -23,62 +23,62 @@
   Execute the program using runserver command.
   
   PROGRAM
-
-  <!DOCTYPE html>
-  <html lang="en">
-  <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Time Table</title>
-      <style>
-          body {
-              font-family: Arial, sans-serif;
-              margin: 20px;
-              background-color: #f5f5f5;
-          }
-          table {
-              border-collapse: collapse;
-              width: 80%;
-              margin: 0 auto;
-              background-color: #f0f8ff;
-          }
-          th, td {
-              border: 1px solid #000;
-              padding: 10px;
-              text-align: center;
-          }
-          th {
-              background-color: #ffcc00;
-              color: #000;
-          }
-          td {
-              background-color: #e0ffff;
-          }
-          .time-slot {
-              background-color: #00ffff;
-              font-weight: bold;
-          }
-          .free-slot {
-              background-color: #99ffff;
-          }
-          .subject-table {
-              margin-top: 20px;
-              width: 60%;
-          }
-          .subject-table th {
-              background-color: #87ceeb;
-          }
-          h1 {
-              text-align: center;
-              margin-bottom: 20px;
-          }
-      </style>
-  </head>
-  <body>
-      <CENTER>
-  <img src="image.png" alt="logo" >
-  </CENTER>
-      <h1>Slot Time Table - JAYANI N (24900024)</h1>
+  
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Time Table</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 20px;
+                background-color: #f5f5f5;
+            }
+            table {
+                border-collapse: collapse;
+                width: 80%;
+                margin: 0 auto;
+                background-color: #f0f8ff;
+            }
+            th, td {
+                border: 1px solid #000;
+                padding: 10px;
+                text-align: center;
+            }
+            th {
+                background-color: #ffcc00;
+                color: #000;
+            }
+            td {
+                background-color: #e0ffff;
+            }
+            .time-slot {
+                background-color: #00ffff;
+                font-weight: bold;
+            }
+            .free-slot {
+                background-color: #99ffff;
+            }
+            .subject-table {
+                margin-top: 20px;
+                width: 60%;
+            }
+            .subject-table th {
+                background-color: #87ceeb;
+            }
+            h1 {
+                text-align: center;
+                margin-bottom: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <CENTER>
+    <img src="image.png" alt="logo" >
+    </CENTER>
+        <h1>Slot Time Table - JAYANI N (24900024)</h1>
   
       <table>
           <tr>
